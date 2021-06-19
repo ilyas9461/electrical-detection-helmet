@@ -39,7 +39,7 @@ ve arzu edilen değer elde edilerek diğer devrelere gönderilmiştir(“Very Lo
 durumunu iletmesi istenileceğinden haberleşme işlemi için bir mikrodenetleyici devreye ihtiyaç duyulmaktadır. 
 ![Olçum Duzeneği Uyg. ](foto/blok_sema.png)
 
-[Ornek Çalışma videosu için tıklayınız...]()
+[Ornek Çalışma videosu için tıklayınız...](https://youtu.be/xw7cg5efln4)
 
 
 ### **Projenin konusu?** :
