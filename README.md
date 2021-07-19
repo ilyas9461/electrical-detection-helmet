@@ -50,7 +50,7 @@ durumunu iletmesi istenileceğinden haberleşme işlemi için bir mikrodenetleyi
 - C++ ile arduino kodlama.
 
 ### Not: 
-Bu çalışma 47. ORTAÖĞRETİM ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ YARIŞMASI (2016)
+Bu çalışma TUBİTAK 47. ORTAÖĞRETİM ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ YARIŞMASI (2016)
 bölge sergisinde sergilenmiştir.
 
 
